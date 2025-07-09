@@ -1,0 +1,10 @@
+使用该工具发表文章应适宜性引用以下内容：
+
+0.Liu, Q., Gas_FTIR_ToolBox, 2024, https://github.com/dadaoqiuzhi/RMD_Digging, accessed date.（必须引用）
+
+1.Liu, Q.; Dou, R.; Zhang, Y.; Huang, W.; Meng, X.; Chen, H. Experimental and Simulation Studies of Degraded Epdm Composite in the Coupled Gamma Radiation-Thermal Environments. Polym. Degrad. Stab. 2024, 227, 110899.
+2.Dou, R.; Zhang, Y.; Huang, Z.; Liu, Q.; Huang, W.; Meng, X.; Chen, H. Study on the Aging Behavior and Mechanism of Nitrile Rubber Composites in Combined Radiation-Thermal Environments. J. Anal. Appl. Pyrolysis 2024, 184, 106865.
+3.Jiang, B.; Dou, R.; Huang, Z.; Liu, Q.; Huang, W.; Xie, C.; Yang, P.; Lei, Y.; Chen, H. Systematic Methodologies to Surveil and Evaluate the Early Imperceptible Thermal Degradation of Epdm Composite. Polymer 2024, 126960.
+4.Shen, H.; Wu, Z.; Li, Y.; Du, X.; Dou, R.; Liu, Q.; Dai, B.; Lin, M.; Huang, W.; Chen, H. Enhancing Radiation Resistance of Silicone Rubber through the Addition of Polydopamine-Modified Cerium Dioxide. Polym. Degrad. Stab. 2024, 227, 110882.
+5.Huang, Z.; Liu, Q.; Jiang, B.; Dou, R.; Dai, B.; Huang, W.; Chen, H. Gamma-Irradiation Induced Nonconventional Fluorescence Enhancement in Silicone Foams. Polym. Test. 2025, 108846.
+6.Yang, S.; Zeng, Y.; Xiao, C.; Yang, M.; Chen, H.; Liu, Q.; Huang, W.; Gong, Y.; Peng, S. Exploring Nafion's Microstructural Changes and the Impact on the Performance of Pemfc under High-Energy Radiation. J. Membr. Sci. 2025, 722, 123867.
