@@ -1,6 +1,6 @@
 使用该工具发表文章应适宜性引用以下内容：
 
-0.Liu, Q., Gas_FTIR_ToolBox, 2024, https://github.com/dadaoqiuzhi/RMD_Digging, accessed date.（必须引用）
+0.Liu, Q., Gas_FTIR_ToolBox, 2024, https://github.com/dadaoqiuzhi/Gas_FTIR_ToolBox, accessed date.（必须引用）
 
 1.Liu, Q.; Dou, R.; Zhang, Y.; Huang, W.; Meng, X.; Chen, H. Experimental and Simulation Studies of Degraded Epdm Composite in the Coupled Gamma Radiation-Thermal Environments. Polym. Degrad. Stab. 2024, 227, 110899.
 2.Dou, R.; Zhang, Y.; Huang, Z.; Liu, Q.; Huang, W.; Meng, X.; Chen, H. Study on the Aging Behavior and Mechanism of Nitrile Rubber Composites in Combined Radiation-Thermal Environments. J. Anal. Appl. Pyrolysis 2024, 184, 106865.
